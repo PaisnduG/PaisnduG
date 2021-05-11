@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Premachnadra</h1>
-<h3 align="center">full stack developer| undergrad | tech enthusiastic</h3>
+<h3 align="center">Full stack developer | Undergrad | Tech enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paisndug&label=Profile%20views&color=0e75b6&style=flat" alt="paisndug" /> </p>
 
