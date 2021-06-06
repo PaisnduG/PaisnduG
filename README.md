@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **tenserflow**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 💬 Ask me about **mern**
 
